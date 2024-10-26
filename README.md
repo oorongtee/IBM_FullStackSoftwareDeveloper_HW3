@@ -1,4 +1,6 @@
-# Introduction to Git and GitHub
+IBM_FullStackSoftwareDeveloper_HW3
+
+Course: IBM Full Stack Software Developer Professional Certificate >> Getting Started with Git and GitHub
 
 ## Simple Interest Calculator
 
